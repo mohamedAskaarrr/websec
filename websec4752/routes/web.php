@@ -14,3 +14,18 @@ return view('even'); //even.blade.php
 Route::get('/prime', function () {
 return view('prime'); //prime.blade.php
 });
+Route::get('/minitest', function () {
+    $bill=[
+
+        ['item'=> 'milk' ,'quantity'=> '1', 'price'=> '20$'],
+        ['item'=> 'milk' ,'quantity'=> '1', 'price'=> '20$'],
+        ['item'=> 'milk' ,'quantity'=> '1', 'price'=> '20$'],
+        ['item'=> 'milk' ,'quantity'=> '1', 'price'=> '20$'],
+        ['item'=> 'milk' ,'quantity'=> '1', 'price'=> '20$'],
+
+    ]
+    
+    ;
+
+    return view(view: 'minitest'); //prime.blade.php
+    });

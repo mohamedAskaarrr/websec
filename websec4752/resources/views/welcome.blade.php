@@ -23,6 +23,9 @@
  <li class="nav-item">
  <a class="nav-link" href="./multible">Multiplication Table</a>
  </li>
+ <li class="nav-item">
+ <a class="nav-link" href="./minitest">minitest</a>
+ </li>
  </ul>
  </div>
  </nav>
