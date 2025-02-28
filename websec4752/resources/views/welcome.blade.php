@@ -8,24 +8,24 @@
 </head>
 
 <body>
- <nav class="navbar navbar-expand-sm bg-light">
+ <nav class="bill">
  <div class="container-fluid">
  <ul class="navbar-nav">
  <li class="nav-item">
- <a class="nav-link" href="./">Home</a>
- </li>
- <li class="nav-item">
- <a class="nav-link" href="./even">Even Numbers</a>
- </li>
- <li class="nav-item">
- <a class="nav-link" href="./prime">Prime Numbers</a>
- </li>
- <li class="nav-item">
- <a class="nav-link" href="./multible">Multiplication Table</a>
- </li>
- <li class="nav-item">
- <a class="nav-link" href="./minitest">minitest</a>
- </li>
+    <a class="nav-link" href="./">Home</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="./even">Even Numbers</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="./prime">Prime Numbers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="./multible">Multiplication Table</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="./minitest">minitest</a>
+                </li>
  </ul>
  </div>
  </nav>
