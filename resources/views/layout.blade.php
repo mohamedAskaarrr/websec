@@ -46,5 +46,14 @@
     </div>
 </div>
 
+
+
+    <div class="mt-3">
+        <div class="card card-body">
+            @yield('content')
+        </div>
+    </div>
+</div>
+
 </body>
 </html>
